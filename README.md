@@ -141,7 +141,7 @@ docker run -it --rm --name n8n -p 5678:5678 -v n8n_data:/home/node/.n8n docker.n
 monitor-inteligente/
 ├── workflow.json          # Workflow exportado de n8n
 ├── README.md              # Este archivo
-└── screenshots.png    # Capturas del proyecto
+└── screenshots    # Capturas del proyecto
     ├── workflow.png        # Canvas de n8n
     ├── sheets.png          # Datos en Google Sheets
     ├── graficos.png        # Gráficos de sentimientos
